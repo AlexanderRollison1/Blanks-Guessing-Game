@@ -1,4 +1,4 @@
-//Alexander Rollison 1001681800
+//Alexander Rollison
 #ifndef GameLib_H
 #define GameLib_H
 #define MAX_ENTRIES 5
