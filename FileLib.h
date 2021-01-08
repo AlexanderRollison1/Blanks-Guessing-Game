@@ -1,4 +1,4 @@
-//Alexander Rollison 1001681800
+//Alexander Rollison
 #ifndef FileLib_H
 #define FileLib_H
 FILE * OpenFile(int argc,char *argv[], char mode[]);
