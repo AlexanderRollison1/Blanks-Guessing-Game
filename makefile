@@ -1,5 +1,5 @@
-#Alexander Rollison 1001681800
-SRC1 = Code7_1001681800.c
+#Alexander Rollison
+SRC1 = Code7.c
 SRC2 = GameLib.c
 SRC3 = FileLib.c
 
